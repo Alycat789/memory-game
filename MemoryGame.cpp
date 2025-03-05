@@ -2,6 +2,8 @@
 // Date: 8-30-24
 // Filename: MemoryGame.cpp
 // Memory Game
+//
+// Would be cool to add a GUI someday
 
 #include <iostream>
 #include <ctime>
